@@ -1,0 +1,4 @@
+scrapy>=2.8.0
+# if you ever need requests/bs4 for quick tests:
+requests
+beautifulsoup4
